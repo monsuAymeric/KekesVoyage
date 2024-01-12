@@ -85,16 +85,13 @@ En tant que Concepteur Développeur d'Application, nos différentes tâches sont
 
 Ce dépôt Github contient :
 <ul>
-  <li>Un dossier avec tout les diagrammes en .drawio (liens originaux ci-dessous)</li>
+  <li>Un dossier pour chaque type de diagramme utilisés (.png & .drawio + lien ci-dessous)</li>
         <ul>
             <li>---> <a href="https://app.diagrams.net/#G1k6tgZQBUXRyRIyZfXL8axuA9HAaVM6Tm">Diagramme de Cas d'Utilisation</a> <---</li>
             <li>---> <a href="https://app.diagrams.net/#G1wZieCp3dTlrnX8PszaGsKKJsQ2BpAb-b">Diagramme de Classes</a> <---</li>
             <li>---> <a href="https://app.diagrams.net/#G1QuJweTHZ9rHLLEdfLY3liZT_v81_lRsC">Diagrammes de Sequence</a> <---</li>
         </ul>
-    <li>Les règles de gestion de l'application</li>
-    <li>Un diagramme de cas d'utilisation (.png & .drawio + lien dans ReadMe)</li>
-    <li>Un diagramme de classes (.png & .drawio + lien dans ReadMe)</li>
-    <li>Un diagramme de séquence (.png & .drawio + lien dans ReadMe)</li>
+    <li>Un document qui réfère les différentes règles de gestion de l'application</li>
     <li>La Documentation du Modèle</li>
 </ul>
 
