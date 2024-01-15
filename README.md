@@ -13,7 +13,7 @@
 
 Il nous a été demandé de concevoir la modélisation UML d'un système simplifié de réservation de vols pour une agence de voyages <br>
 Notre client souhaite proposer la possibilité de réserver en ligne des billets d'avion à leurs clients <br>
-Notre mission principale : Concevoir à l'aide du stadard UML la modélisation de la plateforme
+Notre mission principale : Concevoir à l'aide du standard UML la modélisation de la plateforme
 
 Les détails de la plateforme :
 <ul>
